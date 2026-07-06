@@ -5,6 +5,7 @@ theme = "PaperMod"
 paginate = 10
 
 [params]
+  mainSections = ["engineering", "product", "methodology", "open-source", "tutorials", "changelog"]
   env = "production"
   title = "AIFLC Blog"
   description = "Engineering, methodology, and product insights from the AI-* Family lifecycle system"
